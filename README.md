@@ -27,5 +27,7 @@ Main.py file
       ranking_url = login.get("https://www.pixiv.net/search.php?word=**here**&order=date_d&p=" + str(p))
 	  #replace **here** with what you want 
 	  #Example 中野三玖
+	  #if u want 2 get Ranking Page,Please replace with https://www.pixiv.net/ranking.php?mode=daily&p=" + str(p))
+	  #daily is ranking classification
 # FINAL
 #### py main.py
