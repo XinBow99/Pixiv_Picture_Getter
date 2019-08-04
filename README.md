@@ -8,9 +8,10 @@ Main.py file
 3. Select NetWork
 ![](https://i.imgur.com/no6FMG3.png)
 4. Sign in Pixiv
-5. Catch the www.pixiv.net and copy Cookie value
+5. Clear Network datas and refresh page
+6. Catch www.pixiv.net and copy Cookie value
 ![](https://i.imgur.com/bYbgr8F.png)
-6. Rplace!
+7. Rplace!
 # Replace Path with Your Save Path
     def saveImg(data, i, x):
         # change your img save path
