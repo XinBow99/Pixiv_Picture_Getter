@@ -5,7 +5,7 @@ Main.py file
     # your cookie
 1. Open your browser
 2. F12 to open Developer Tools on browser
-3. Selet NetWork
+3. Select NetWork
 ![](https://i.imgur.com/no6FMG3.png)
 4. Sign in Pixiv
 5. Catch the www.pixiv.net and copy Cookie value
